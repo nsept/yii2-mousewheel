@@ -6,10 +6,10 @@ A jQuery plugin that adds cross-browser mouse wheel support with delta normaliza
 
 Either run
 
-```composer require nsept/yii2-mousewheel "*"```
+```composer require nsept/yii2-mousewheel "@dev"```
 
 or add
 
-```"nsept/yii2-mousewheel": "*"```
+```"nsept/yii2-mousewheel": "@dev"```
 
 to the ```require``` section of your `composer.json` file.
