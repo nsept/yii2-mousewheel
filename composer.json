@@ -1,0 +1,22 @@
+{
+  "name":  "nsept/yii2-mousewheel",
+  "version": "1.0.0",
+  "description": "A jQuery plugin that adds cross-browser mouse wheel support with delta normalization.",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "jquery", "mousewheel", "asset"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nsept",
+      "email": "nsept@ya.ru"
+    }
+  ],
+  "require": {
+    "bower-asset/jquery-mousewheel": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nsept\\mousewheel\\": ""
+    }
+  }
+}
