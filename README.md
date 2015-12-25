@@ -1,4 +1,4 @@
-#Yii2 jQuery Mouse Wheel Asset
+#Yii2 jQuery Mouse Wheel Asset Bundle
 
 Asset bundle for a [jQuery plugin](https://github.com/jquery/jquery-mousewheel) that adds cross-browser mouse wheel support with delta normalization.
 
